@@ -2,7 +2,7 @@
 
 Power Bi report for the financials of a company | Company A
 
-**Inspiration from Jude Foundation Scholarship Students 2024**
+**Inspiration from Jude Foundation Scholarship Students**
 
 ![Dashboard](Financial_Report-2.png)
 ![Dashboard](Financial_Report-3.png)
