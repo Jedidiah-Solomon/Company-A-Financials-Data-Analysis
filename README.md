@@ -1,4 +1,4 @@
-# Company-A-Financials-Data-Analsis
+# Company-A-Financials-Data-Analysis
 
 Power Bi report for the financials of a company | Company A
 
