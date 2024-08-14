@@ -134,4 +134,4 @@ NairaSalesColumn =
 
 [My URL Shortner](https://url-shortener-psi-amber.vercel.app/)
 <br>
-<a href="https://url-shortener-psi-amber.vercel.app/" target="_blank">My URL Shortner</a>
+[My URL Shortner](https://url-shortener-psi-amber.vercel.app/)
