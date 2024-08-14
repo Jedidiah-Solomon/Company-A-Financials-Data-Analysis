@@ -1,5 +1,6 @@
 ## Table of Contents
 
+- [Contributors](#contributors)
 - [Company A Financials Data Analysis](#company-a-financials-data-analysis)
   - [Overview](#overview)
   - [Key Metrics Analyzed](#key-metrics-analyzed)
@@ -21,6 +22,12 @@
   - [Conclusion](#conclusion)
 - [Inspiration from Jude Foundation Scholarship Students](#inspiration-from-jude-foundation-scholarship-students)
 - [Some DAX Functions Used](#some-dax-functions-used)
+
+# Contributors
+
+1. Isaac - Zac001-spec
+2. Roseline - Rose-of-web3
+3. Sandra -
 
 # Company A Financials Data Analysis
 
