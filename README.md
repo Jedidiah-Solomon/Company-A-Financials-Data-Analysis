@@ -27,7 +27,7 @@
 
 1. Isaac - Zac001-spec
 2. Roseline - Rose-of-web3
-3. Sandra -
+3. Sandra - chimdiasogwa
 
 # Company A Financials Data Analysis
 
